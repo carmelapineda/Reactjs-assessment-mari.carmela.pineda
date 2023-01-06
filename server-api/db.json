@@ -1,0 +1,59 @@
+{
+  "contacts": [
+    {
+      "id": "1b7afd69-d3a2-4695-9a40-3ad2d054e43f",
+      "name": "Ivy Vicencio",
+      "email": "ivy@vicencio.com"
+    },
+    {
+      "id": "a2cfe14c-ee78-4743-a889-b922169d3d1e",
+      "name": "Ikee Tolentino",
+      "email": "ikee@tolentino.com"
+    },
+    {
+      "id": "bedb5f31-fbe3-420f-a22c-6d6d902ec330",
+      "name": "Aica Pascual",
+      "email": "aica.pascual@test.com"
+    },
+    {
+      "id": "a73f2555-ca0d-4fec-8eba-ae6403e38382",
+      "name": "Charlie",
+      "email": "charlie@gmail.com"
+    },
+    {
+      "id": "60719f44-08b0-4045-95b4-5876b02ba83a",
+      "name": "Vince Pajarillaga",
+      "email": "vince.pajarillaga@test.com"
+    },
+    {
+      "id": "8503f361-bf0c-4f16-bbcc-388f324e4c9a",
+      "name": "Lala Balaoing",
+      "email": "lala@balaoing.com"
+    },
+    {
+      "id": "71439675-94de-4ec9-8eb2-d4660b833973",
+      "name": "Joobey Reyes",
+      "email": "joobey.reyes@gmail.com"
+    },
+    {
+      "id": "1300fc8a-6548-40fe-996e-8e7a2d277e82",
+      "name": "Micah Rondilla",
+      "email": "micah@rondilla.com"
+    },
+    {
+      "id": "7fd99692-0bee-46ef-b6d2-9e03003c1989",
+      "name": "Abby Andales",
+      "email": "abby.andales@test.com"
+    },
+    {
+      "id": "3a7d938a-6d5a-4add-af04-ff78def93f88",
+      "name": "test",
+      "email": "test@test.com"
+    },
+    {
+      "id": "3035d68f-e9ad-49ee-a10c-6a242b9a9c1e",
+      "name": "Sheena Suyo",
+      "email": "sheena@suyo.com"
+    }
+  ]
+}

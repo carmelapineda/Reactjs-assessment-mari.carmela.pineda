@@ -1,0 +1,67 @@
+body {
+  background-color: gainsboro;
+}
+
+h2 {
+  color: white;
+}
+
+.main {
+  margin: 5em;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  background-color: rosybrown;
+  border-radius: 10px;
+}
+
+.content {
+  margin-left: 15px;
+}
+
+.header {
+  padding-bottom: 2px;
+}
+
+.center {
+  justify-content: center;
+  padding: 10px;
+}
+
+.ui.search .input {
+  width: 100%;
+  margin-bottom: 2em;
+  margin-top: 1em;
+}
+
+.ui.search .prompt {
+  border-radius: 30px;
+}
+
+.ui.input > input {
+  border: 1.5px solid rgba(24, 30, 64, 0.501);
+}
+
+.item {
+  border: 1px solid oldlace;
+  border-radius: 20px;
+  padding: 20px 80px !important;
+  width: 100%;
+  margin: 2px auto;
+  background-color: mintcream;
+}
+
+i.icon {
+  float: right;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.right {
+  float: right !important;
+}
+
+.center-div {
+  text-align: center;
+}
